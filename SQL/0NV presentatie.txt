@@ -1,0 +1,44 @@
+Presentatie 0NV
+
+
+Enes:
+
+Dia 1 opening: Hallo allemaal, ons presentatie gaat over NuldeNormaalVorm
+dat hoort bij normaliseren.
+
+Dia 2 inhoud: We gaan het hebben over Wat Normaliseren is en waarom we dat
+gebruiken. Daarna gaan we uitleggen wat NuldeNormaalVorm is en inhoud.
+En uiteindelijk kunnen jullie vragen stellen.
+
+Dia 4 0NV: topic 3 en 4 uitleggen: Een NuldeNormaalVorm is meestal niet in
+kolommen gedefineerd, daardoor is de data ook niet goed doorzoekbaar.
+Zelfs met kolommen kan je het geen NuldeNormaalVorm noemen, omdat het niet
+gedefineerd is. Bijvoorbeeld omdat het niet uniek is. Daarna verwijzen naar
+derman dat hij het voorbeeld laat zien en het verder uitlegt.
+
+
+Mitch:
+
+Dia 3 wat is normaliseren: Normaliseren is een methode bij het
+opstellen van een database en het wordt gebruikt in relationele databases.
+
+
+Mohamed:
+
+Dia 3 waarom normaliseren we: Met normaliseren kan je heel goed omgaan met
+de opslagruimte en natuurlijk vermijd je dan ook dubbele data's. Ook heel
+belangrijk dat je bewust bent dat er helemaal geen informatie verloren gaat.
+
+
+Batuhan:
+
+Dia 4 0NV: topic 1 en 2 uitleggen: Ieder gegevensbestand die niet
+gestructureerd is is een NuldeNormaalVorm oftewel niet genormaliseerd.
+Gegevens zijn ook overal en nergens. (dan gaat Enes verder met waarom
+overal en nergens)
+
+
+Derman:
+
+Dia 4 0NV: Eerst Enes topic 3 en 4 daarna krijgt derman beurt om topic 5
+uitleggen, dus topic 3 en 4 weer opnieuw, maar dan met voorbeeld.
